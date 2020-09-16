@@ -1,6 +1,6 @@
 // Hackerearth Problem 
 // You are given a set of binary elements. 
-// You have to eliminate the binary numbers that contain  as a substring. 
+// You have to eliminate the binary numbers that contain 11/111/111... as a substring. 
 // The resultant sequence will be 1, 10, 100, 101, 1000, and so on.
 
 func qd(num: Int) -> String {
